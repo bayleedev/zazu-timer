@@ -1,5 +1,25 @@
-## Zazu Template
+## Zazu Timer
 
-[![Build Status](https://travis-ci.org/tinytacoteam/zazu-template.svg?branch=master)](https://travis-ci.org/tinytacoteam/zazu-template)
+Create timers that keep you focused!
 
-Zazu Template for starting your own plugin.
+## Commands
+
+Create a timer for 5 minutes
+
+> timer 5
+
+Create a timer for 5 minutes and 30 seconds
+
+> timer 5:30
+
+Name a 5 minute timer
+
+> timer 5 pomodoro
+
+List your timers
+
+> ltimer
+
+Delete a timer
+
+> dtimer
