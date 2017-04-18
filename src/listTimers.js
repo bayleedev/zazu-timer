@@ -10,6 +10,7 @@ module.exports = () => {
       .map((key) => {
         const { value } = timerCache[key]
         return {
+          id: key,
           icon: 'fa-clock-o',
           title: 'Timer: ' + value,
           value: key,
