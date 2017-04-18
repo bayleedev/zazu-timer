@@ -6,7 +6,7 @@ module.exports = () => {
         title: 'Start a countdown timer',
         subtitle: 'Timer ' + query,
         value: query,
-      }
+      },
     ])
   }
 }
