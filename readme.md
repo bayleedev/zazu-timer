@@ -1,5 +1,7 @@
 ## Zazu Timer
 
+[![Build Status](https://travis-ci.org/blainesch/zazu-timer.svg?branch=master)](https://travis-ci.org/blainesch/zazu-timer)
+
 Create timers that keep you focused!
 
 ## Commands
