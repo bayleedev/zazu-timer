@@ -60,9 +60,8 @@
       },
       {
         "id": "NotifyEnd",
-        "type": "SendNotification",
-        "title": "Timer Ended",
-        "message": "{value}"
+        "type": "Preview",
+        "message": "Timer Ended {value}"
       }
     ]
   }
